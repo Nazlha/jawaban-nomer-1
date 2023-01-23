@@ -1,0 +1,4 @@
+def masukan_angka(angka1, angka2):
+    hasil = angka1 + angka2
+    print("hasil: ",hasil)
+masukan_angka(5, 4)
